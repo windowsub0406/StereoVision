@@ -94,8 +94,9 @@ For more details, check this [paper](http://www.lelaps.de/papers/badino_dagm09.p
 ## Result  
   
   
-> video result (Click for full video)
-  [![Video White](images/stereo.gif?raw=true)](https://www.youtube.com/watch?v=yA3GfowOGIk)  
+> video result (Click for full video)  
+  
+[![Video White](images/stereo.gif?raw=true)](https://www.youtube.com/watch?v=yA3GfowOGIk)  
 
 
 
