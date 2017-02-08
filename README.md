@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="images/picture1.png" width="480" alt="bm_wls_image" /><br>
+    <img src="images/picture1.png" width="240" alt="bm_wls_image" /><br>
 </p>
   
   
@@ -95,9 +95,9 @@ For more details, check this [paper](http://www.lelaps.de/papers/badino_dagm09.p
 
 >result video (Click for full video)
   
-[![Video White](images/stereo.gif?raw=true)](https://www.youtube.com/watch?v=yA3GfowOGIk)  
-
-
+<p align="center">
+    [<img src="images/stereo.gif" width="480" alt="stixels" />](https://www.youtube.com/watch?v=yA3GfowOGIk)
+</p>
 
 
 
