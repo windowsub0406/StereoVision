@@ -1,6 +1,6 @@
-# Stereo Vision
-
-
+# Stereo Vision  
+  
+  
 <p align="center">
     <img src="images/picture1.png" width="240" alt="bm_wls_image" /><br>
 </p>
@@ -44,7 +44,7 @@
 ## Stereo matching Algorithm  
   
 <p align="center">
-    <img src="images/gm_sgm.png" width="480" alt="bm_image" /><br>
+    <img src="images/bm_sgm.png" width="480" alt="bm_image" /><br>
 </p>
 
 I used Block Matching(BM) Algorithm in this project. but you can use (Semi-Global Matching)SGM Algorithm by changing `alg = 0 to 1`.  As you can see, the SGM prints out better disparity map but I used a BM because of real-time processing. If your machine is good enough, I recommend SGM.
@@ -74,7 +74,7 @@ I also erased unnecessary parts(above the height of a vehicle) in the same way a
 ## Occupancy grid (top view)  
   
 <p align="center">
-    <img src="images/occupancy grid.png" width="480" alt="occupancy grid" /><br>
+    <img src="images/occupancy grid.png" width="350" alt="occupancy grid" /><br>
 </p>
 
 This is a occupancy grid whis is one of the General Object Detection(GOD) methods.  
@@ -91,13 +91,13 @@ I also tried Stixels methods simply. This method is proposed from Daimler group.
 For more details, check this [paper](http://www.lelaps.de/papers/badino_dagm09.pdf)(The Stixel World - A Compact Medium Level Representation of the 3D-World).  
   
   
-## Result
-
->result video (Click for full video)
+## Result  
   
-<p align="center">
-    [<img src="images/stereo.gif" width="480" alt="stixels" />](https://www.youtube.com/watch?v=yA3GfowOGIk)
-</p>
+  
+> video result (Click for full video)
+  [![Video White](images/stereo.gif?raw=true)](https://www.youtube.com/watch?v=yA3GfowOGIk)  
+
+
 
 
 
