@@ -27,7 +27,7 @@
  
 * __Dataset__  
  
-    [Daimler open dataset](https://drive.google.com/open?id=0B2XnTE8P37k9ak1va3JtWkZQN2s)
+    [Daimler open dataset](http://www.lookingatpeople.com/download-daimler-stereo-ped-det-benchmark/) (TestData_c0_part1.tgz, TestData_c1_part1.tgz)  
  
   
 ### Environment  
@@ -97,29 +97,4 @@ For more details, check this [paper](http://www.lelaps.de/papers/badino_dagm09.p
 > video result (Click for full video)  
   
 [![Video White](images/stereo.gif?raw=true)](https://www.youtube.com/watch?v=yA3GfowOGIk)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
